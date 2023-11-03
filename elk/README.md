@@ -22,7 +22,7 @@ Different lists to work with the Elastic Stack without using sigma rules by http
 
 10. **Custom query:** event.code (1 OR 4688)
 
-11. **Indicator index patterns**: .items-{YOUR SPACE name}
+11. **Indicator index patterns**: .items-<Kibana space>
 
 12. **Indicator index query: list_id:** "th_keywords_elk.txt"
 
